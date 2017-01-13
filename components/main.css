@@ -10,7 +10,7 @@
   :host {
     position: absolute;
     right: 0;
-    width: 73%;
+    width: 69%;
     padding: 125.9px 8% 70.6px 8%;
     vertical-align: top;
     display: inline-block;
@@ -19,7 +19,7 @@
 
 @media (min-width: 900px) {
   :host {
-    width: 77%;
+    width: 73%;
     padding: 125.9px 6% 70.6px 6%;
   }
 }
